@@ -33,6 +33,9 @@ body {
 .list {
 	list-style-type: none;
 }
+.list li {
+	margin: 5px 0;
+}
 .list li a {
 	text-decoration: none;
 	color: black;
